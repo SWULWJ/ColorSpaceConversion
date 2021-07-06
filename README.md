@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SWULWJ a college student from China
-- 👀 I’m interested in CV,UAV,Cyber-Security
-- 🌱 I’m currently learning C++ with Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @SWULWJ a college student from China.
+- 👀 I’m interested in CV,UAV,Cyber-Security.
+- The project is for personal learning and experimental purposes only.
+- It uses C++ to convert images between multiple color Spaces.
 - 📫 How to reach me e-mail:mike_lwj@foxmail.com
 
 <!---
